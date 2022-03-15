@@ -5,7 +5,7 @@ certManager:
   serviceAccountName: cert-manager
 
 image:
-  repository: monostream/cert-manager-linode
+  repository: zmwangi/cert-manager-linode
   tag: latest
   pullPolicy: Always
 
